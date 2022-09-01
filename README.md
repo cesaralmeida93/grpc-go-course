@@ -74,3 +74,7 @@ help you, when filling an issue, please provide the output of:
 ```shell
 make about
 ```
+
+## checks:
+- finished server setup boletplate code(chapter 4)
+- finished client setup boletplate code(chapter 4)
