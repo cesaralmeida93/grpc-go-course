@@ -1,4 +1,4 @@
-# gRPC Go
+# gRPC Go notes and commands
 
 
 ## Notes
