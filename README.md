@@ -1,4 +1,4 @@
-# gRPC Go notes and commands to go through the course
+# gRPC Go notes and commands
 
 ## Notes
 
